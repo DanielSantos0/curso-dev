@@ -1,5 +1,5 @@
 function Home() {
-    return <h1>HOJE TEM!!!!! 😈</h1>
+    return <h1>Aplicação Online!</h1>
 }
 
 export default Home;
