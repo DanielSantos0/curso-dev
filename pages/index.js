@@ -1,5 +1,5 @@
 function Home() {
-    return <h1>Aplicação Online!</h1>
+    return <h1>Para de pinar ai ratola pliss</h1>
 }
 
 export default Home;
