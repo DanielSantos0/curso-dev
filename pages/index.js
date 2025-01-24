@@ -1,5 +1,5 @@
 function Home() {
-    return <h1>Para de pinar ai ratola pliss</h1>
+    return <h1>É O PINAS N TEM JEITO!!!11!</h1>
 }
 
 export default Home;
