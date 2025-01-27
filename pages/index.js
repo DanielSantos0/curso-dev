@@ -1,12 +1,19 @@
 function Home() {
     return (
         <div>
-            <h1>n tem jeito, vo te q zua</h1>
+            <h1>É O TEJOSBCINHA N TEM JEITO</h1>
             <img 
                 src="https://imgur.com/OIwJ1nU.jpg" 
-                alt="Descrição da imagem" 
+                alt="kbcinha 2/16" 
                 style={{ maxWidth: "100%", height: "auto" }} 
             />
+            <img 
+                src="https://imgur.com/a/xb2dpLL.jpg" 
+                alt="kbcinha 5/15" 
+                style={{ maxWidth: "100%", height: "auto" }} 
+            />
+        
+        
         </div>
     );
 }
