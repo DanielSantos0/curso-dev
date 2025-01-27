@@ -8,7 +8,7 @@ function Home() {
                 style={{ maxWidth: "100%", height: "auto" }} 
             />
             <img 
-                src="https://imgur.com/a/xb2dpLL.jpg" 
+                src="https://i.imgur.com/JpRoN1K.png" 
                 alt="kbcinha 5/15" 
                 style={{ maxWidth: "100%", height: "auto" }} 
             />
